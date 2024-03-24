@@ -1,6 +1,6 @@
 //Strings
 
-// create a sring
+// create a string
 
 let email = "suffosohraoul@gmail.com";
 
